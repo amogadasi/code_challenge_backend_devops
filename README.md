@@ -1,4 +1,4 @@
-# Python Backend Test
+# Code Challenge: Backend and DevOps
 A sample microservice backend project with Django, Redis and Kafka for testing familiarities with these tools.
 
 ### Included in the Box
@@ -62,7 +62,7 @@ Now, complete the API endpoint to have these functionalities:
 
 
 
-## Step 3: CI/CD! (Optional)
+## Step 3: CI/CD!
 
 > **Note:** Continue with this part only if you are interested in CI/CD and software deployment.
 
